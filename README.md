@@ -35,9 +35,6 @@
   <img src="https://raw.githubusercontent.com/RafaelGallo/deploy_case_ml_koin/main/img/log0.jpg" width="800"/>
 </p>
 
-**Aplicação em produção (Streamlit Cloud):**  
-https://aplicacao-modelo-ml-credito.streamlit.app/
-
 ## Visão Geral
 
 Este projeto implementa um sistema completo de **predição de inadimplência de clientes** utilizando Machine Learning.  
